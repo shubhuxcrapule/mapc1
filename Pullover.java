@@ -26,7 +26,6 @@ public class Pullover {
     
     public void setPrix(double prix) {this.prix = prix;}
     public void setPlie(boolean etat) {this.etat = etat;}
-    public void setAbime(boolean abime) {this.abime = abime;}
     public void setString(String couleur) {this.couleur=couleur;}  
     
     @Override
